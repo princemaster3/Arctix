@@ -22,7 +22,7 @@
 
 > pkg install nodejs
 
-> git clone --depth=1 https://github.com/Royce-B/Arctix.git
+> git clone --depth=1 https://github.com/princemaster3/Arctix.git
 
 > cd Arctix
 
